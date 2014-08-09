@@ -1,0 +1,4 @@
+D:\Development\CSharp_P\AIWebSite\WebSiteDAL\bin\Debug\WebSiteDAL.dll
+D:\Development\CSharp_P\AIWebSite\WebSiteDAL\bin\Debug\WebSiteDAL.pdb
+D:\Development\CSharp_P\AIWebSite\WebSiteDAL\obj\Debug\WebSiteDAL.dll
+D:\Development\CSharp_P\AIWebSite\WebSiteDAL\obj\Debug\WebSiteDAL.pdb
